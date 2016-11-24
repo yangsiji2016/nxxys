@@ -1,0 +1,35 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}金秋九月,101888001号段活动方案{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}未知&nbsp{/dede:field}
+{dede:field name='pubdate'}2016-09-14 17:44:00 &nbsp{/dede:field}
+{dede:field name='body'}<br />
+<span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">各位代理商、会员们：</span><br style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;" />
+<span style="color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">&nbsp; &nbsp; &nbsp;</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">&nbsp;为答谢全国广大交易会员，为了更好的服务于各位投资者，现101888001号段经纪会员湖北九汇天下商贸有限公司申请开展开户送原始票的活动。一波接一波，财富多多，具体活动详情请联系相关负责人。101888001号段经纪会员期待您！！<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp;活动详情：<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; 一、体验投资者<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 凡是在西邮101888001号段注册的新老会员10月1日前持有600002（防治大气污染），均可按照1:1的比例配售市价票（最高上限200枚）。非西邮101888001号段注册的会员在10月1日前持有600002（防治大气污染），可按2:1的比例配售市价票（最高上限200枚）。<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; 二</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">、</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">初级投资者<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1、培养人需持50张600002（防治大气污染）（原始票到账即可卖出），引荐3人成为新开户类体验投资者，可一次性获得原始配票3张。<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">、</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">培养人需持100张600002（防治大气污染）（原始票到账即可卖出），引荐6人成为新开户类体验投资者，可一次性获得原始配票6张。<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">、</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">培养人需持150张600002（防治大气污染）（原始票到账即可卖出），引荐9人成为新开户类体验投资者，可一次性获得原始配票9张。<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">、</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">培养人需持200张600002（防治大气污染）（原始票到账即可卖出），引荐12人成为新开户类体验投资者，可一次性获得原始配票15张。<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp;三</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">、</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">成熟投资者<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">、</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">引荐5人成为初级投资者，且累计辅导达50人，50人累积持仓达到2500张600002（防治大气污染）（原始票到账即可卖出），达标后，可获得60张原始配票奖励；<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">、</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">引荐10位初级投资者或500人即为成熟投资者，500人累积达到持仓5000张600002（防治大气污染）（原始票到账即可卖出），达标后，可以获得150张原始配票奖励。<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;备注：两万以上市值方具备配售资格，体验投资者最高只能配售200张原始票。<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp;四、活动时间：<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2016年9月19日&mdash;2016年9月30日（名额有限，&nbsp;送完即止）<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;注：开户之后需要联系客服进行登记上报&nbsp;&nbsp;<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; 五、联系方式：<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">、</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">QQ联系：&nbsp;736466950（客服）<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">、</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">电话：027-59230248<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">、</span><span style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;">微&nbsp;信&nbsp;号：&nbsp;yw101888（客服微信）<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;注：以上活动内容由101888001号段制定并负责落实<br style="padding: 0px; margin: 0px;" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 宁夏西邮文化艺术品交易中心不承担违约连带责任</span><br style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px;" />
+<div style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px; text-align: right;">
+	<br style="padding: 0px; margin: 0px;" />
+	<span style="padding: 0px; margin: 0px;">2016年9月14日</span>{/dede:field}
+{dede:field name='litpic'}{/dede:field}

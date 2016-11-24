@@ -1,0 +1,143 @@
+ul, li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    width: 100%;
+    margin: 10px auto 0;
+    color: #000000;
+}
+
+.product-list-box {
+    width: 100%;
+    min-height: 90px;
+    height: auto !important;
+    height: 90px;
+    overflow: hidden;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.product-list-box .table {
+    width: 100%;
+}
+
+.product-list-box th {
+    border: none;
+}
+
+.product-list-box td {
+    border: none;
+}
+
+.change {
+    color: #F00;
+}
+
+.preClose {
+    color: #05e017;
+}
+
+.table-bordered {
+    overflow: hidden;
+    border: 1px solid #000000;
+}
+
+.history-quote-box {
+    width: 100%;
+    min-height: 300px;
+    height: auto !important;
+    height: 300px;
+    background-color: #000000;
+    border: 1px solid #000000;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+.history-quote-pic {
+    border-bottom: 1px solid #4b4b4b;
+    color: #ffffff;
+}
+
+.history-quote-list {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.history-quote-list li {
+    cursor: pointer;
+    height: 30px;
+    line-height: 29px;
+    margin-left: 8px;
+    display: inline-block;
+}
+
+.history-quote-list li.active {
+    color: red;
+}
+
+.pic-box {
+    margin-top: 6px;
+    width: 100%;
+    height: 380px;
+    position: relative;
+}
+
+.quoto-bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background: #fff url("../img/loading.gif") /*tpa=http://www.81xiyou.com/webapp-chart-fs-html/dist/img/loading.gif*/ no-repeat center center;
+}
+
+#quoto-pic {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-color: #000;
+    color: #FFF;
+    padding: 10px;
+}
+
+#product-list {
+    font-size: 10px;
+}
+
+#product-list tr.active td {
+    background-color: #4b4b4b;
+}
+
+#product-list td {
+    padding: 6px 6px;
+}
+
+.price {
+    /*background-color: #93969b;*/
+    color: #05e017;
+}
+
+.amount {
+    color: #05e017;
+}
+
+.table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
+    border-bottom-width: 0;
+}
+
+.table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
+    border: 1px solid #4b4b4b;
+}
+
+.table-hover > tbody > tr:hover > td,
+.table-hover > tbody > tr:hover > th {
+    background-color: #4b4b4b;
+}
+	
+	
+	
+	
+	

@@ -1,0 +1,84 @@
+<header class="header">
+    <div class="navTop">
+        <a href="" class="logo"><img src="{dede:global.cfg_templets_skin/}/images/logo.png"></a>
+        <div class="top_search">
+            <h2>客服电话：{dede:global.cfg_phone/}</h2>
+            <div id="search_box">
+                <form name="formsearch" action="">
+                    <input type="hidden" name="kwtype" value="0"/>
+                    <input name="q" type="text" value=" " class="swap_value"/>
+                    <input type="image" src="{dede:global.cfg_templets_skin/}/images/search.png" width="17" height="18" id="go" alt="Search" title="Search"/>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <div class="listBox">
+        <div class="bg"></div>
+        <ul>
+            <li {dede:field name=typeid runphp="yes"}(@me=="")? @me=" class='active' ":@me="";{/dede:field}><a href="{dede:global.cfg_indexurl/}"> 主页 </a>
+            <div class="border" style="display: block;"></div>
+            </li>
+            {dede:channel row='7' type ='top'  currentstyle="<li class='active'><a href='~typelink~'>~typename~</a></li>" }
+                <li><a href="[field:typelink/]"> [field:typename/] </a>
+                    <div class="border" style="display: block;"></div>
+                </li>
+            {/dede:channel}
+        </ul>
+    </div>
+</header>
+<nav class="rightNav">
+    <style>
+        .rightNav .ewm {
+            font-size: 11px;
+        }
+    </style>
+    <ul>
+        <li class="cur1">
+            <a href="a/wangshangkaihu/index.htm"></a>
+        </li>
+        <li class="cur4">
+            <a href="a/xiazaizhongxin/ruanjianxiazai/index.htm"></a>
+        </li>
+        <li class="wxBtn">
+            <div class="imgBox">
+                <div class="ewm" style="width:103px;border:none;"><img src="{dede:global.cfg_templets_skin/}/images/erw.jpg" width="100%"></div>
+            </div>
+        </li>
+        <li class="qqBtn">
+            <div class="qqBox">
+                <a target="_blank"
+                   href='http://wpa.qq.com/msgrd?v=3&uin=2862629582&site=qq&menu=yes'
+                >
+                    <div class="icon"></div>
+                    <div class="text">QQ客服①</div>
+                </a>
+                <a target="_blank"
+                   href='http://wpa.qq.com/msgrd?v=3&uin=2657814015&site=qq&menu=yes'
+                >
+                    <div class="icon"></div>
+                    <div class="text">QQ客服②</div>
+                </a>
+                <a target="_blank"
+                   href='http://wpa.qq.com/msgrd?v=3&uin=3289429137&site=qq&menu=yes'
+                >
+                    <div class="icon"></div>
+                    <div class="text">QQ客服③</div>
+                </a>
+                <a target="_blank"
+                   href='http://wpa.qq.com/msgrd?v=3&uin=2125142503&site=qq&menu=yes'
+                >
+                    <div class="icon"></div>
+                    <div class="text">合规客服④</div>
+                </a>
+                <a target="_blank"
+                   href='http://wpa.qq.com/msgrd?v=3&uin=2932845760&site=qq&menu=yes'
+                >
+                    <div class="icon"></div>
+                    <div class="text">合规客服⑤</div>
+                </a>
+            </div>
+        </li>
+        <li class="backTop"></li>
+    </ul>
+</nav>

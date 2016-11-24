@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <title>{dede:field.title/}-{dede:global.cfg_webname/}</title>
+    <link href="{dede:global.cfg_templets_skin/}/css/cs.shuwon.css" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+    <script src="//cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<article class="notice">
+    <!--头部模板-->
+    {dede:include filename="head.htm"/}
+    <section class="banner"><img src="/templets/default/images/2016052315560166.jpg" width="100%" alt="西邮所:依法合规经营 严禁不当行为管控各项风险">
+        <!--二级导航-->
+        <nav class="nav">
+            <ul>
+                {dede:channel row='9' currentstyle="
+                <li class='active'><a href='~typelink~'>~typename~</a></li>
+                " }
+                <li><a href="[field:typelink/]">[field:typename/]</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
+                {/dede:channel}
+            </ul>
+        </nav>
+    </section>
+
+    <section class="newBox">
+        <!--文章标题信息-->
+        <div class="pageTit">
+            <div class="border borderL"></div>
+            <div class="texts">
+                <div class="ch">{dede:field.title/}</div>
+            </div>
+            <div class="border borderR"></div>
+        </div>
+        <!--文章内容-->
+        <div style="width:1200px; margin:auto; text-align:left;">
+            {dede:field.body/}
+        </div>
+    </section>
+    <!-- 底部模板 -->
+    {dede:include filename="footer.htm"/}
+</article>
+
+<!--底部js引用-->
+{dede:include filename="footer-js.htm"/}
+
+<script src="/templets/default/js/cs.shuwon.js" id="JS" page="home"></script>
+
+</body>
+</html>

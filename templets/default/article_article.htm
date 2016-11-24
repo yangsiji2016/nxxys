@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <title>{dede:field.title/}-{dede:global.cfg_webname/}</title>
+    <link href="{dede:global.cfg_templets_skin/}/css/cs.shuwon.css" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+    <script src="//cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<article class="notice">
+    <!--头部模板-->
+    {dede:include filename="head.htm"/}
+    <section class="banner"><img src="/templets/default/images/2016052315560166.jpg" width="100%" alt="西邮所:依法合规经营 严禁不当行为管控各项风险">
+        <!--二级导航-->
+        <nav class="nav">
+            <ul>
+                {dede:channel row='9' currentstyle="
+                <li class='active'><a href='~typelink~'>~typename~</a></li>
+                " }
+                <li><a href="[field:typelink/]">[field:typename/]</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
+                {/dede:channel}
+            </ul>
+        </nav>
+    </section>
+
+    <section id="newContent">
+        <!--三级导航-->
+        <div class="newsfresh">
+            <a href='{dede:global.cfg_indexurl/}'>主页</a>
+            <!--{dede:channel}<a href="[field:typelink/]">[field:typename/]</a>{/dede:channel}-->
+        </div>
+        <!--文章标题信息-->
+        <div class="nDTitle">{dede:field.title/}</div>
+        <div class="nDInfos">
+            发布时间：{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}
+            来源：{dede:field.source/}
+            浏览次数：<span><script src="{dede:field name='phpurl'/}/count.php?view=yes&aid={dede:field name='id'/}&mid={dede:field name='mid'/}" type='text/javascript' language="javascript"></script></span>
+        </div>
+        <!--文章内容-->
+        <div class="nDContent">
+            {dede:field.body/}
+        </div>
+    </section>
+    <!-- 底部模板 -->
+    {dede:include filename="footer.htm"/}
+</article>
+
+<!--底部js引用-->
+{dede:include filename="footer-js.htm"/}
+
+<script src="/templets/default/js/cs.shuwon.js" id="JS" page="home"></script>
+
+</body>
+</html>

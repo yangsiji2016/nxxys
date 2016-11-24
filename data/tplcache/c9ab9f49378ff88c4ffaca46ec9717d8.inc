@@ -1,0 +1,11 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}宁夏西邮艺术品中心经纪会员管理委员会简介{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}未知&nbsp{/dede:field}
+{dede:field name='pubdate'}2016-08-26 10:40:00 &nbsp{/dede:field}
+{dede:field name='body'}<div style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 28px; text-align: justify;">
+	<span style="padding: 0px; margin: 0px;">宁夏西邮文化艺术品交易中心经纪会员管理委员会是依据国家相关法律法规的规定而设立的邮币卡电子交易中心的自律性部门，接受宁夏西邮文化艺术品交易中心业务指导和监督管理。宁夏西邮文化艺术品交易中心经纪会员管理委员会于2016年8月22日成立，赵博同志当选为主任。管理委员会遵循公开、自愿、有偿、诚实守信、自律的原则，在宁夏西邮文化艺术品交易中心的监督指导下，团结和依靠全体经纪会员，切实履行&ldquo;自律、服务、传导&rdquo;三大职能，力求在推进经纪会员自律管理、反映经纪会员意见建议、改善中心发展环境等方面发挥自律组织的应有作用。<br style="padding: 0px; margin: 0px;" />
+	&nbsp; &nbsp; &nbsp; 宁夏西邮文化艺术品交易中心经纪会员管理委员会的最高权力机构是宁夏西邮文化艺术品交易中心，常务理事会为其执行机构。宁夏西邮文化艺术品交易中心经纪会员管理委员会实行主任负责制。截至发稿时止，管理委员会共有经纪会员112家，其中，一级经纪会员30家，二级经纪会员82家。<br style="padding: 0px; margin: 0px;" />
+	　 &nbsp;管理委员会的宗旨是：&ldquo;为中华文化传承服务，为文化产业发展服务&rdquo;，在遵循国家法律法规和相关监管部门管理的前提下，进行邮币卡现货交易自律管理；发挥经纪会员与中心的桥梁和纽带作用；为会员服务，维护会员的合法权益；维持经纪会员间的正当竞争秩序，促进宁夏西邮文化艺术品交易中心市场的公开、公平、公正，推动交易中心的健康稳定发展。</span>{/dede:field}
+{dede:field name='litpic'}{/dede:field}

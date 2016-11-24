@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <title>{dede:field.title/}-{dede:global.cfg_webname/}</title>
+    <link href="{dede:global.cfg_templets_skin/}/css/cs.shuwon.css" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+    <script src="//cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<article class="notice">
+    <!--头部模板-->
+    {dede:include filename="head.htm"/}
+    <section class="banner"> <img src="/templets/default/images/2016052315560166.jpg" width="100%" alt="西邮所（官网）-宁夏西邮艺术品交易中心">
+        <!--二级导航-->
+        <nav class="nav">
+            <ul>
+                {dede:channel row='9'}
+                    <li class=""><a href="[field:typelink/]">[field:typename/]</a>
+                        <div class="border borderL"></div>
+                        <div class="border borderR"></div>
+                    </li>
+                {/dede:channel}
+            </ul>
+        </nav>
+    </section>
+    <section class="noticeBox" id="zxdt">
+        <div class="pageTit">
+            <div class="border borderL"></div>
+            <div class="texts">
+                <div class="ch">{dede:field.title/}</div>
+                <div class="en">MARKET ANNOUNCEMENT</div>
+            </div>
+            <div class="border borderR"></div>
+        </div>
+
+        <!--推荐文章-->
+        <a href="/a/xiyouzixun/shichanggonggao/2016/1008/17.html" class="bigNew">
+            <div class='imgs'><img src='/uploads/161020/1-16102011522V31.jpg' width='100%'></div>
+            <div class="time">
+                <div class="date">08-23</div>
+                <div class="year">2016</div>
+            </div>
+            <div class="textBox">
+                <div class="tit"><strong>西邮所:依法合规经营 严禁</strong></div>
+                <div class="text">尊敬的广大交易商、各会员单位： 宁夏西邮文化艺术品交易中心（以下简称西邮所）自成立以来一直秉承诚信、守法的经营理念，在相关部门的监督管理下谋求规范发展。在业务发展过</div>
+                <div class="lookMore">查看详情</div>
+            </div>
+        </a>
+
+        <!--文章列表-->
+        <ul class="list mr">
+            {dede:list pagesize ='8'}
+            <li class=''>
+                <a href="[field:arcurl/]">
+                    <div class="time">
+                        <div class="date">[field:pubdate function=strftime('%m-%d',@me)/]</div>
+                        <div class="year">[field:pubdate function=strftime('%Y',@me)/]</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">[field:title/]</div>
+                        <div class="text">[field:description function="cn_substr(@me,80)"/]...</div>
+                    </div>
+                    <div class="arrow"></div>
+                </a>
+            </li>
+            {/dede:list}
+        </ul>
+
+        <!--分页-->
+        <div class="dede_pages_wrap">
+            <div class="dede_pages">
+                <ul class="pagelist">{dede:pagelist listitem="info,index,end,pre,next,pageno,option"listsize="3"/}</ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- 底部模板 -->
+    {dede:include filename="footer.htm"/}
+</article>
+
+<!--底部js引用-->
+{dede:include filename="footer-js.htm"/}
+<script src="/templets/default/js/cs.shuwon.js" id="JS" page="home"></script>
+</body>
+</html>
