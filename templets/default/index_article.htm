@@ -14,15 +14,15 @@
 <article class="notice">
     <!--头部模板-->
     {dede:include filename="head.htm"/}
-    <section class="banner"> <img src="/templets/default/images/2016052315560166.jpg" width="100%" alt="西邮所（官网）-宁夏西邮艺术品交易中心">
+    <section class="banner"><img src="/templets/default/images/2016052315560166.jpg" width="100%" alt="西邮所（官网）-宁夏西邮艺术品交易中心">
         <!--二级导航-->
         <nav class="nav">
             <ul>
                 {dede:channel row='9'}
-                    <li class=""><a href="[field:typelink/]">[field:typename/]</a>
-                        <div class="border borderL"></div>
-                        <div class="border borderR"></div>
-                    </li>
+                <li class=""><a href="[field:typelink/]">[field:typename/]</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
                 {/dede:channel}
             </ul>
         </nav>
@@ -52,23 +52,25 @@
         </a>
 
         <!--文章列表-->
-        <ul class="list mr">
-            {dede:list pagesize ='8'}
-            <li class=''>
-                <a href="[field:arcurl/]">
-                    <div class="time">
-                        <div class="date">[field:pubdate function=strftime('%m-%d',@me)/]</div>
-                        <div class="year">[field:pubdate function=strftime('%Y',@me)/]</div>
-                    </div>
-                    <div class="textBox">
-                        <div class="tit">[field:title/]</div>
-                        <div class="text">[field:description function="cn_substr(@me,80)"/]...</div>
-                    </div>
-                    <div class="arrow"></div>
-                </a>
-            </li>
-            {/dede:list}
-        </ul>
+        {dede:channelartlist}
+            <ul class="list mr">
+                {dede:arclist titlelen='60' row='200' typeid='son'}
+                    <li class=''>
+                        <a href="[field:arcurl/]">
+                            <div class="time">
+                                <div class="date">[field:pubdate function=strftime('%m-%d',@me)/]</div>
+                                <div class="year">[field:pubdate function=strftime('%Y',@me)/]</div>
+                            </div>
+                            <div class="textBox">
+                                <div class="tit">[field:title/]</div>
+                                <div class="text">[field:description function="cn_substr(@me,80)"/]...</div>
+                            </div>
+                            <div class="arrow"></div>
+                        </a>
+                    </li>
+                {/dede:arclist}
+            </ul>
+        {/dede:channelartlist}
 
         <!--分页-->
         <div class="dede_pages_wrap">
