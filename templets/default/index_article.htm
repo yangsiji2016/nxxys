@@ -10,6 +10,7 @@
     <script src="//cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     <script type="text/javascript" src="{dede:global.cfg_cmsurl/}/include/dedeajax2.js"></script>
+    <!--分页js-->
     <script type="text/javascript">
         function multi(pagenum, tagid) {
             var taget_obj = document.getElementById(tagid);
@@ -50,18 +51,20 @@
         </div>
 
         <!--推荐文章-->
-        <a href="/a/xiyouzixun/shichanggonggao/2016/1008/17.html" class="bigNew">
-            <div class='imgs'><img src='/uploads/161020/1-16102011522V31.jpg' width='100%'></div>
-            <div class="time">
-                <div class="date">08-23</div>
-                <div class="year">2016</div>
-            </div>
-            <div class="textBox">
-                <div class="tit"><strong>西邮所:依法合规经营 严禁</strong></div>
-                <div class="text">尊敬的广大交易商、各会员单位： 宁夏西邮文化艺术品交易中心（以下简称西邮所）自成立以来一直秉承诚信、守法的经营理念，在相关部门的监督管理下谋求规范发展。在业务发展过</div>
-                <div class="lookMore">查看详情</div>
-            </div>
-        </a>
+        {dede:arclist flag='h' type='.image' imgwidth='100%' imgheight='100%' row='1'}
+            <a href="[field:arcurl/]" class="bigNew">
+                <div class='imgs'>[field:image/]</div>
+                <div class="time">
+                    <div class="date">[field:pubdate function=strftime('%m-%d',@me)/]</div>
+                    <div class="year">[field:pubdate function=strftime('%Y',@me)/]</div>
+                </div>
+                <div class="textBox">
+                    <div class="tit">[field:title/]</div>
+                    <div class="text">[field:description function="cn_substr(@me,80)"/]...</div>
+                    <div class="lookMore">查看详情</div>
+                </div>
+            </a>
+        {/dede:arclist}
 
         <!--文章列表-->
         <ul class="list mr">
@@ -82,12 +85,6 @@
             {/dede:arclist}
         </ul>
 
-        <!--分页-->
-        <!--<div class="dede_pages_wrap">
-            <div class="dede_pages">
-                <ul class="pagelist">{dede:pagelist listitem="info,index,end,pre,next,pageno,option"listsize="3"/}</ul>
-            </div>
-        </div>-->
         <div class="dede_pages_wrap">
             <div class="dede_pages">
                 <ul class="pagelist">

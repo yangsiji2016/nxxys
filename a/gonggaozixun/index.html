@@ -9,6 +9,19 @@
     <!--[if IE]>
     <script src="//cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <script type="text/javascript" src="/include/dedeajax2.js"></script>
+    <!--分页js-->
+    <script type="text/javascript">
+        function multi(pagenum, tagid) {
+            var taget_obj = document.getElementById(tagid);
+            var taget_obj_page = document.getElementById("page_" + tagid);
+            myajax = new DedeAjax(taget_obj, false, false, '', '', '');
+            myajax.SendGet2("/plus/arcmulti.php?mtype=0&pnum=" + pagenum + '&tagid=' + tagid);
+            myajax = new DedeAjax(taget_obj_page, false, false, '', '', '');
+            myajax.SendGet2("/plus/arcmulti.php?mtype=1&pnum=" + pagenum + '&tagid=' + tagid);
+            DedeXHTTP = null;
+        }
+    </script>
 </head>
 <body>
 <article class="notice">
@@ -118,55 +131,55 @@
     </ul>
 </nav>
 
-    <section class="banner"> <img src="/templets/default/images/2016052315560166.jpg" width="100%" alt="西邮所（官网）-宁夏西邮艺术品交易中心">
+    <section class="banner"><img src="/templets/default/images/2016052315560166.jpg" width="100%" alt="西邮所（官网）-宁夏西邮艺术品交易中心">
         <!--二级导航-->
         <nav class="nav">
             <ul>
                 
-                    <li class=""><a href="/a/gonggaozixun/shichanggonggao/">市场公告</a>
-                        <div class="border borderL"></div>
-                        <div class="border borderR"></div>
-                    </li>
+                <li class=""><a href="/a/gonggaozixun/shichanggonggao/">市场公告</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
                 
-                    <li class=""><a href="/a/gonggaozixun/zhongxindongtai/">中心动态</a>
-                        <div class="border borderL"></div>
-                        <div class="border borderR"></div>
-                    </li>
+                <li class=""><a href="/a/gonggaozixun/zhongxindongtai/">中心动态</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
                 
-                    <li class=""><a href="/a/gonggaozixun/huiyuanhuodong/">会员活动</a>
-                        <div class="border borderL"></div>
-                        <div class="border borderR"></div>
-                    </li>
+                <li class=""><a href="/a/gonggaozixun/huiyuanhuodong/">会员活动</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
                 
-                    <li class=""><a href="/a/gonggaozixun/tuoguangonggao/">托管公告</a>
-                        <div class="border borderL"></div>
-                        <div class="border borderR"></div>
-                    </li>
+                <li class=""><a href="/a/gonggaozixun/tuoguangonggao/">托管公告</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
                 
-                    <li class=""><a href="/a/gonggaozixun/shengougonggao/">申购公告</a>
-                        <div class="border borderL"></div>
-                        <div class="border borderR"></div>
-                    </li>
+                <li class=""><a href="/a/gonggaozixun/shengougonggao/">申购公告</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
                 
-                    <li class=""><a href="/a/gonggaozixun/shichangfenxi/">市场分析</a>
-                        <div class="border borderL"></div>
-                        <div class="border borderR"></div>
-                    </li>
+                <li class=""><a href="/a/gonggaozixun/shichangfenxi/">市场分析</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
                 
-                    <li class=""><a href="/a/gonggaozixun/jiaoyishuju/">交易数据</a>
-                        <div class="border borderL"></div>
-                        <div class="border borderR"></div>
-                    </li>
+                <li class=""><a href="/a/gonggaozixun/jiaoyishuju/">交易数据</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
                 
-                    <li class=""><a href="/a/gonggaozixun/xingyedongtai/">行业动态</a>
-                        <div class="border borderL"></div>
-                        <div class="border borderR"></div>
-                    </li>
+                <li class=""><a href="/a/gonggaozixun/xingyedongtai/">行业动态</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
                 
-                    <li class=""><a href="/a/gonggaozixun/xingqingfenxi/">行情分析</a>
-                        <div class="border borderL"></div>
-                        <div class="border borderR"></div>
-                    </li>
+                <li class=""><a href="/a/gonggaozixun/xingqingfenxi/">行情分析</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
                 
             </ul>
         </nav>
@@ -182,28 +195,136 @@
         </div>
 
         <!--推荐文章-->
-        <a href="/a/xiyouzixun/shichanggonggao/2016/1008/17.html" class="bigNew">
-            <div class='imgs'><img src='/uploads/161020/1-16102011522V31.jpg' width='100%'></div>
-            <div class="time">
-                <div class="date">08-23</div>
-                <div class="year">2016</div>
-            </div>
-            <div class="textBox">
-                <div class="tit"><strong>西邮所:依法合规经营 严禁</strong></div>
-                <div class="text">尊敬的广大交易商、各会员单位： 宁夏西邮文化艺术品交易中心（以下简称西邮所）自成立以来一直秉承诚信、守法的经营理念，在相关部门的监督管理下谋求规范发展。在业务发展过</div>
-                <div class="lookMore">查看详情</div>
-            </div>
-        </a>
+        <a href="/a/gonggaozixun/xingqingfenxi/20161124/467.html" class="bigNew">
+                <div class='imgs'><img src='/uploads/161125/1-1611251202115P.jpg' border='0' width='100%' height='100%' alt='投资邮币卡，应该注意啥'></div>
+                <div class="time">
+                    <div class="date">11-25</div>
+                    <div class="year">2016</div>
+                </div>
+                <div class="textBox">
+                    <div class="tit">投资邮币卡，应该注意啥</div>
+                    <div class="text">眼下，在互联网推动下的邮币卡电子盘横空出世，吸引了不少投...</div>
+                    <div class="lookMore">查看详情</div>
+                </div>
+            </a>
+
 
         <!--文章列表-->
         <ul class="list mr">
-            
+                <div id='mynews'>
+<li class=''>
+                <a href="/a/gonggaozixun/xingqingfenxi/20161124/467.html">
+                    <div class="time">
+                        <div class="date">11-25</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">投资邮币卡，应该注意啥</div>
+                        <div class="text">眼下，在互联网推动下的邮币卡电子盘横空出世，吸引了不少投...</div>
+                    </div>
+                    <div class="arrow"></div>
+                </a>
+            </li>
+<li class=''>
+                <a href="/a/gonggaozixun/xingyedongtai/20161124/438.html">
+                    <div class="time">
+                        <div class="date">11-25</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">“吉祥文化”第二组贵金属纪念币发行 “五福拱</div>
+                        <div class="text">3月22日，中国人民银行发行的第二组以吉祥文化为主题的贵金属...</div>
+                    </div>
+                    <div class="arrow"></div>
+                </a>
+            </li>
+<li class=''>
+                <a href="/a/gonggaozixun/jiaoyishuju/20161124/417.html">
+                    <div class="time">
+                        <div class="date">11-25</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">中国邮政发行《中国邮政开办一百二十周年》纪</div>
+                        <div class="text">中国邮政定于2016年3月20日发行《中国邮政开办一百二十周年》纪...</div>
+                    </div>
+                    <div class="arrow"></div>
+                </a>
+            </li>
+<li class=''>
+                <a href="/a/gonggaozixun/shichangfenxi/20161124/414.html">
+                    <div class="time">
+                        <div class="date">11-25</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">智慧金融—需要精雕细琢的工匠精神</div>
+                        <div class="text">喜欢不断雕琢自己的产品，不断改善自己的工艺，享受着产品在...</div>
+                    </div>
+                    <div class="arrow"></div>
+                </a>
+            </li>
+<li class=''>
+                <a href="/a/gonggaozixun/zhongxindongtai/20161123/321.html">
+                    <div class="time">
+                        <div class="date">11-25</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">风险提示：任何对产品预期价格或者收益的承诺</div>
+                        <div class="text">风险提示：任何对产品预期价格或者收益的承诺均为虚假，请各...</div>
+                    </div>
+                    <div class="arrow"></div>
+                </a>
+            </li>
+<li class=''>
+                <a href="/a/gonggaozixun/shichanggonggao/20161123/251.html">
+                    <div class="time">
+                        <div class="date">11-25</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">西邮所:依法合规经营 严禁不当行为管控各项风险</div>
+                        <div class="text">尊敬的广大交易商、各会员单位： 宁夏西邮文化艺术品交易中心...</div>
+                    </div>
+                    <div class="arrow"></div>
+                </a>
+            </li>
+<li class=''>
+                <a href="/a/gonggaozixun/xingqingfenxi/20161124/462.html">
+                    <div class="time">
+                        <div class="date">11-24</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">错版人民币的收藏囧境 有价无市变现难</div>
+                        <div class="text">最近一段时间关于错版人民币的报道层出不穷，一张百元面值的...</div>
+                    </div>
+                    <div class="arrow"></div>
+                </a>
+            </li>
+<li class=''>
+                <a href="/a/gonggaozixun/shichanggonggao/20161123/249.html">
+                    <div class="time">
+                        <div class="date">11-23</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">2016D058号《宁夏民居》等藏品的停牌公告</div>
+                        <div class="text">...</div>
+                    </div>
+                    <div class="arrow"></div>
+                </a>
+            </li>
+    </div>
+
         </ul>
 
-        <!--分页-->
         <div class="dede_pages_wrap">
             <div class="dede_pages">
-                <ul class="pagelist"></ul>
+                <ul class="pagelist">
+                    <div id="page_mynews"><a href='javascript:void(0)' class='thislink'>1</a> <a href='javascript:multi(2,"mynews")' title='2'>2</a>  <a href='javascript:multi(3,"mynews")' title='3'>3</a>  <a href='javascript:multi(4,"mynews")' title='4'>4</a>  <a href='javascript:multi(5,"mynews")' title='5'>5</a>  <a href='javascript:multi(6,"mynews")' title='6'>6</a>  <a href='javascript:multi(7,"mynews")' title='7'>7</a>  <a href='javascript:multi(8,"mynews")' title='8'>8</a>  <a href='javascript:multi(9,"mynews")' title='9'>9</a> </div>
+                </ul>
             </div>
         </div>
     </section>

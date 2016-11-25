@@ -9,6 +9,19 @@
     <!--[if IE]>
     <script src="//cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <script type="text/javascript" src="/include/dedeajax2.js"></script>
+    <!--分页js-->
+    <script type="text/javascript">
+        function multi(pagenum, tagid) {
+            var taget_obj = document.getElementById(tagid);
+            var taget_obj_page = document.getElementById("page_" + tagid);
+            myajax = new DedeAjax(taget_obj, false, false, '', '', '');
+            myajax.SendGet2("/plus/arcmulti.php?mtype=0&pnum=" + pagenum + '&tagid=' + tagid);
+            myajax = new DedeAjax(taget_obj_page, false, false, '', '', '');
+            myajax.SendGet2("/plus/arcmulti.php?mtype=1&pnum=" + pagenum + '&tagid=' + tagid);
+            DedeXHTTP = null;
+        }
+    </script>
 </head>
 <body>
 <article class="notice">
@@ -118,15 +131,35 @@
     </ul>
 </nav>
 
-    <section class="banner"> <img src="/templets/default/images/2016052315560166.jpg" width="100%" alt="西邮所（官网）-宁夏西邮艺术品交易中心">
+    <section class="banner"><img src="/templets/default/images/2016052315560166.jpg" width="100%" alt="西邮所（官网）-宁夏西邮艺术品交易中心">
         <!--二级导航-->
         <nav class="nav">
             <ul>
                 
+                <li class=""><a href="/a/jiaoyiguize/jiaoyizhidu/">交易制度</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
+                
+                <li class=""><a href="/a/jiaoyiguize/zhengcefagui/">政策法规</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
+                
+                <li class=""><a href="/a/jiaoyiguize/tuoguanliucheng/">托管流程</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
+                
+                <li class=""><a href="/a/jiaoyiguize/jiaoshouliucheng/">交收流程</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
+                
             </ul>
         </nav>
     </section>
-    <section class="noticeBox" id="zxdt">
+    <section class="newBox">
         <div class="pageTit">
             <div class="border borderL"></div>
             <div class="texts">
@@ -136,29 +169,97 @@
             <div class="border borderR"></div>
         </div>
 
-        <!--推荐文章-->
-        <a href="/a/xiyouzixun/shichanggonggao/2016/1008/17.html" class="bigNew">
-            <div class='imgs'><img src='/uploads/161020/1-16102011522V31.jpg' width='100%'></div>
-            <div class="time">
-                <div class="date">08-23</div>
-                <div class="year">2016</div>
-            </div>
-            <div class="textBox">
-                <div class="tit"><strong>西邮所:依法合规经营 严禁</strong></div>
-                <div class="text">尊敬的广大交易商、各会员单位： 宁夏西邮文化艺术品交易中心（以下简称西邮所）自成立以来一直秉承诚信、守法的经营理念，在相关部门的监督管理下谋求规范发展。在业务发展过</div>
-                <div class="lookMore">查看详情</div>
-            </div>
-        </a>
-
         <!--文章列表-->
-        <ul class="list mr">
-            
+        <ul class="list">
+                <div id='mynews1'>
+<li class=''>
+                <a href="/a/jiaoyiguize/jiaoyizhidu/20161124/474.html">
+                    <div class="time">
+                        <div class="date">11-24</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">宁夏西邮商品发售交易规则（暂行）...</div>
+                        <div class="text">商品发售交易规则（暂行） 第一章 总则 第一条、为规范宁夏西...</div>
+                    </div>
+                    <div class="btn">查看详情</div>
+                </a>
+            </li>
+<li class=''>
+                <a href="/a/jiaoyiguize/jiaoyizhidu/20161124/475.html">
+                    <div class="time">
+                        <div class="date">11-24</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">文化艺术品交易中心风控管理办法...</div>
+                        <div class="text">风控管理办法（试行） 第一章总则 第一条 为加强宁夏西邮文化...</div>
+                    </div>
+                    <div class="btn">查看详情</div>
+                </a>
+            </li>
+<li class=''>
+                <a href="/a/jiaoyiguize/jiaoyizhidu/20161124/476.html">
+                    <div class="time">
+                        <div class="date">11-24</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">宁夏西邮文化艺术品交易中心结算实施细则...</div>
+                        <div class="text">1111111111...</div>
+                    </div>
+                    <div class="btn">查看详情</div>
+                </a>
+            </li>
+<li class=''>
+                <a href="/a/jiaoyiguize/zhengcefagui/20161124/478.html">
+                    <div class="time">
+                        <div class="date">11-24</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">网络交易管理办法...</div>
+                        <div class="text">...</div>
+                    </div>
+                    <div class="btn">查看详情</div>
+                </a>
+            </li>
+<li class=''>
+                <a href="/a/jiaoyiguize/zhengcefagui/20161124/479.html">
+                    <div class="time">
+                        <div class="date">11-24</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">中华人民共和国电子签名法...</div>
+                        <div class="text">...</div>
+                    </div>
+                    <div class="btn">查看详情</div>
+                </a>
+            </li>
+<li class=''>
+                <a href="/a/jiaoyiguize/jiaoyizhidu/20161124/477.html">
+                    <div class="time">
+                        <div class="date">11-24</div>
+                        <div class="year">2016</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">会员管理办法（暂行）...</div>
+                        <div class="text">...</div>
+                    </div>
+                    <div class="btn">查看详情</div>
+                </a>
+            </li>
+    </div>
+
         </ul>
 
         <!--分页-->
         <div class="dede_pages_wrap">
             <div class="dede_pages">
-                <ul class="pagelist"></ul>
+                <ul class="pagelist">
+                    <div id="page_mynews1">共1页</div>
+                </ul>
             </div>
         </div>
     </section>

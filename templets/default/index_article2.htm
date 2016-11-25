@@ -40,7 +40,7 @@
             </ul>
         </nav>
     </section>
-    <section class="noticeBox" id="zxdt">
+    <section class="newBox">
         <div class="pageTit">
             <div class="border borderL"></div>
             <div class="texts">
@@ -49,22 +49,6 @@
             </div>
             <div class="border borderR"></div>
         </div>
-
-        <!--推荐文章-->
-        {dede:arclist flag='h' type='.image' imgwidth='100%' imgheight='100%' row='1'}
-            <a href="[field:arcurl/]" class="bigNew">
-                <div class='imgs'>[field:image/]</div>
-                <div class="time">
-                    <div class="date">[field:pubdate function=strftime('%m-%d',@me)/]</div>
-                    <div class="year">[field:pubdate function=strftime('%Y',@me)/]</div>
-                </div>
-                <div class="textBox">
-                    <div class="tit">[field:title/]</div>
-                    <div class="text">[field:description function="cn_substr(@me,80)"/]...</div>
-                    <div class="lookMore">查看详情</div>
-                </div>
-            </a>
-        {/dede:arclist}
 
         <!--文章列表-->
         <ul class="list">
@@ -86,11 +70,6 @@
         </ul>
 
         <!--分页-->
-        <!--<div class="dede_pages_wrap">
-            <div class="dede_pages">
-                <ul class="pagelist">{dede:pagelist listitem="info,index,end,pre,next,pageno,option"listsize="3"/}</ul>
-            </div>
-        </div>-->
         <div class="dede_pages_wrap">
             <div class="dede_pages">
                 <ul class="pagelist">

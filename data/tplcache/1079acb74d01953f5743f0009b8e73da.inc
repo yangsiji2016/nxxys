@@ -1,0 +1,154 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}五类最具收藏价值的人民币 全套价值百万{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}未知&nbsp{/dede:field}
+{dede:field name='pubdate'}2016-03-27 01:33:00 &nbsp{/dede:field}
+{dede:field name='body'}<center style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em; text-align: left;">
+	<p style="padding: 0px; margin: 0px; text-indent: 2em; text-align: center;">
+		<img alt="" src="/uploads/allimg/c161124/14O95JGT610-21P2.jpg" style="width: 354px; height: 400px;" /></p>
+	<p style="padding: 0px; margin: 0px; text-indent: 2em;">
+		&nbsp;</p>
+</center>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第一套人民币</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	发行年代越久远、越稀少的纸币，收藏价值越大。新中国成立前发行的第一套人民币，八成新品相的全套目前价格接近百万元，全套全新的价格则高达数百万元。此外，一些连号的没有在市场上流通过的纸币，更受到收藏者的青睐。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em; text-align: center;">
+	<img alt="" src="/uploads/allimg/c161124/14O95JH1N60-31048.jpg" style="width: 550px; height: 542px;" /></p>
+<center style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em; text-align: left;">
+	<p style="padding: 0px; margin: 0px; text-indent: 2em;">
+		换版纸币背绿壹角纸币</p>
+</center>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	换版纸币</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	根据流通和防伪的需要，有时已发行的人民币需要改变工艺、颜色或者年号等。原币绝版后，银行只收不付，随着时间的推移，市场上流通数量越来越少，收藏价值也就不断攀升。如1966年1月发行的背绿壹角纸币（水印和无水印2种版别）发行仅1年，人民银行就决定将背绿券收回，重新发行背面颜色为酱紫、橘黄色的壹角券。由此，背绿壹角成为第三套人民币中发行量最少、发行时间最短、存世量最少的壹角纸币。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	人民币联体钞</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	&nbsp;</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	联体钞作为集藏领域的一个全新品种，以格式新颖、发行量小、设计装帧精美、编号独一无二等特点受到广大集藏爱好者的青睐。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em; text-align: center;">
+	<img alt="" src="/uploads/allimg/c161124/14O95JH232Z-4Z11.jpg" style="width: 500px; height: 344px;" /></p>
+<center style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em; text-align: left;">
+	<p style="padding: 0px; margin: 0px; text-indent: 2em;">
+		人民币联体钞</p>
+</center>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	&nbsp;</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	目前为止，已有&ldquo;竖三连50元纪念钞&rdquo;&ldquo;竖三连100元券&rdquo;&ldquo;第四版人民币四联体&rdquo;&ldquo;第四版人民币八联体&rdquo;和&ldquo;第四版人民币整版三十五联体&rdquo;珍藏册等品种、款式面市，具有较大的升值空间。</p>
+<center style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em; text-align: left;">
+	<center style="padding: 0px; margin: 0px; text-indent: 2em; text-align: left;">
+		<center style="padding: 0px; margin: 0px; text-indent: 2em; text-align: left;">
+			<center style="padding: 0px; margin: 0px; text-indent: 2em; text-align: left;">
+				<center style="padding: 0px; margin: 0px; text-indent: 2em; text-align: left;">
+					<p style="padding: 0px; margin: 0px; text-indent: 2em;">
+						冠号全同人民币</p>
+				</center>
+			</center>
+		</center>
+	</center>
+</center>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	人民币纸币号码除冠字外，后边还有七位或者八位数字号码，有些特殊号码的人民币具有收藏价值。根据收藏者的喜好和市场表现，收藏价值最高的是全同号，尤其是5、6、7、8这类的全同号。其他特殊号码纸币的收藏价值依次是顺序号、AB号、对称号、小号、多重尾号、重叠号等。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	人民币收藏升温 1960版2元钞数量稀少大涨600倍</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	股市阴晴不定，使得一些市民和投资家&ldquo;弃市投币&rdquo;，把目光投向人民币市场，打算在&ldquo;钱&rdquo;上投资。昨日，记者走访西安邮币市场了解到，目前第三套人民币1960版2元钞已经涨到了单张1200元左右，翻了600倍，60版的一角钱单张价格已经涨到了2600元。<br />
+	&nbsp; &nbsp; &nbsp; &nbsp;<span style="text-indent: 2em;">1960年版2元钞</span></p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	昨日，记者在西安市西华门邮币卡市场看到，不时有市民前来咨询和购买收藏品。&ldquo;现在60版的2元钱单张已经1200元了&hellip;&hellip;&rdquo;收藏市场的倪老板告诉记者，近几年，人民币收藏不断升温。自2000年7月1日第三套人民币退出流通市场后，就一直受到收藏家的热捧，现在60版的背绿1角钱已经涨到了2600元。据倪老板说，2005年，60版的背绿一角钱200多元，5年时间翻了13倍。而60版2元钱2005年时在90元左右，现在已经涨到了2600元。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	对于近期收藏品市场的活跃情况，有店主表示，一方面由于收藏的人多而收藏币数量有限，另一方面与经济回暖有关，但是大幅度的上涨不排除庄家的炒作。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	一头蓬松的卷毛，笑起来略带腼腆，今年才28岁的刘涛，很难让人与一个在收藏行业&ldquo;摸爬滚打&rdquo;了近7年的人联系起来。他对钱币收藏有较为深入的研究，在钱币收藏投资的价值分析，以及钱币收藏中入手和出手方面有着独到的见解。通过倒腾钱币理财投资，获益颇丰。<br />
+	&nbsp; &nbsp; &nbsp;&nbsp;<span style="text-indent: 2em;">第四套人民币</span></p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	中国有句古话：乱世藏粮，盛世收藏。据了解，近20年来古董以及其他收藏品价格在中国市场上成几何倍数增长。刘涛也深为赞同，他表示收藏品是继股票、房地产、基金、期货之后新起的投资行业。收藏投资主要分为4大类：钱币、贵金属、邮票、字画。其中钱币包括人民币、纪念币、金银币整版钞等；贵金属包括金、银、铜、铁等；邮票包括单张邮票、四方连邮票、整版票、无戳票等；字画包括名人字画、真迹字画、孪生本已字画等。随着市场升温，很多人把资金转向了钱币、邮票投资。而他自己目前主要收藏的是纪念钞与纪念币。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	&ldquo;在通胀的年代，收藏是财产增值保值的一个好去处。&rdquo;刘涛告诉笔者。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	他从小就喜好收藏，对各色事物都抱有浓厚的好奇与兴趣，别人不要的烟壳、糖纸等都曾是他的&ldquo;宝贝&rdquo;。收藏的癖好，给他日后带来不少惊喜。2000年千禧龙钞初始发行（100面值），当时并没多少人注意到它的价值，销量黯淡。17岁的刘涛却一口气拿下数张。如今，一张千禧龙钞市价已飙升到3000多元。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	2005年毕业后，刘涛义无反顾地一头扎进收藏界，开始寻梦之旅。他从收藏公司打杂做起，在第一线边工作边如海绵般汲取知识，迅速成长起来。&ldquo;我以前以为收藏就是收古董，系统学习了解后才有了清晰构架。我目前实力并不强，先在做纪念钞与纪念币收藏投资。&rdquo;刘涛笑道。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	他指出，收藏人民币也要像中医诊断一样做到望、闻、问、切。即多关注人民币的动态，从他人那入手时要多闻人民币上是否有油墨的味道，与钱币爱好者及收藏钱币老师多问多交流，入手时要多触摸仔细甄别。机会是留给有准备的人，看准时机就要出手。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	而在把握机会上，刘涛确实深有&ldquo;感触&rdquo;，比如第四套整版人民币。该套人民币从1987年4月27日开始发行，至1997年4月1日止，共发行9种面额，14种票券。目前整版市价为30万元到60多万元，而2009年时小十万元就可拿下。他有过许多机会把握，却因一下拿出小10万元有点舍不得，再加上第四套人民币还没有完全退市，揣着能更便宜拿下的侥幸心理一拖再拖，结果痛失良机。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	&ldquo;犹豫的结果就是与财富擦肩而过！&rdquo;自那以后，刘涛的博客首页便换上这个座右铭，用三个粗黑的感叹号加以强调。不过他也指出，收藏抢先机确实重要，但也不能盲目跟风。要多跟朋友及前辈等交流，建立自己的关系圈，让信息多多流通，及时把握讯息与收藏风向。而当前，他比较看好澳门双错版钞与生肖龙钞，已入手部分。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	总体上来说，刘涛赚钱的交易占绝大多数。最令他得意的是奥运纪念钞，等值拿入，十来倍卖出，狠狠给钱包扩张了下。如今，储蓄了丰富经验的刘涛跟朋友合伙开了个工作室，正朝着自己的理想奋力迈进。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	人民币收藏：第二套2角涨到2800元</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币，是在第一套人民币的基础上于1955年3月1日开始发行的。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	1955年3月1日公布发行的第二套人民币共10种，1分、2分、5分、1角、2角、5角、1元、2元、3元和5元，1957年12月1日又发行10元1种。同时，为便于流通，国务院发布命令 ，自1957年12月1日起发行1分、2分、5分三种硬币，与纸分币等值流通。后来，对1元纸币和5元纸币的图案、花纹又分别进行了调整和更换颜色，于1961年3月25日和1962年4月20日分别发行了黑色1元券和棕色5元券，使第二套人民币的版别分别由开始公布的11种增加到16种。1964年4月14日，中国人民银行发布了《关于收回三种人民币票券的通告》，决定从1964年4月15日开始限期收回苏联代印的1953年版的3元、5元和10元纸币，1964年5月15日停止收兑和流通使用。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第四套人民币的启动行情可以追溯到2008年底，在3年左右时间内，1980年版的2元，从原来的6元上涨到半年前的80元左右，但现在已经降到40元左右，&ldquo;价格近乎腰斩&rdquo;。而1980年版的50元也从3000多元降至目前的1800元左右。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	很多投资客都以为纸币市场只涨不跌，但事实上，很多投资者在大举杀入收藏市场时，同样面临&ldquo;折戟&rdquo;的风险，&ldquo;这和股市其实差不了多少&rdquo;。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	在第四套人民价格大幅下挫的同时，前三套人民币的行情保持坚挺。第二套人民币中的1角和2角，从去年以来已从原来的180元左右和800元左右，分别上涨到700元左右和2800元左右。目前市场上，第一套和第二套人民币已属于稀缺品，第三套人民币小全套售价稳定在3150元左右。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	业内专家表示，第四套人民币收藏价格大幅下跌，与此前的疯涨及炒家资金吃紧不无关系。此前，新进市场的投资者非常疯狂，基本上都是整刀整刀地购买，这一定程度反映出原来的货币宽松与游资炒作的格局。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	藏品名称藏品类别藏品价格</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币 10元工农第二套人民币 ￥287200</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币 5元海鸥水印第二套人民币 ￥1280</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币 3元第二套人民币 ￥45500</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币 2元第二套人民币 ￥3200</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币 1元红色天安门第二套人民币 ￥5800</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币 5角第二套人民币 ￥2580</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币 2角第二套人民币 ￥1900</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币 1角第二套人民币 ￥580</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币 5分第二套人民币 ￥1680</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币 2分第二套人民币 ￥78</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	53年第二套人民币 1分第二套人民币 ￥128</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币大全套第二套人民币 ￥379800</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	[第二套人民币票样第二套人民币图片]<br />
+	&nbsp; &nbsp; &nbsp; &nbsp;<span style="text-indent: 2em;">[第二套人民币收藏的意义]</span></p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币是1955年3月1日开始发行的，目的是治理解放前遗留的通货膨胀问题，后期由于和苏联关系恶化，（部分纸币先前有苏联帮助印刷，著名的大黑拾。伍元、叁元）于1964年5月15日完全退出流通，结束了有外国给新中国印刷纸币的历史，这套币发行八年，工农业生产迅速恢复和发展，商品经济日益活跃，维护了新中国的经济安全，有效的预防敌对实力输送假钞的问题，期间经历了三年大饥荒，浮夸风等&ldquo;左&rdquo;倾错误致使众多亲人失去，整个国民情绪进入特种时期。第二套人民币承载了人们太多的酸甜苦辣。收藏他等于收藏一本最好的社会科学教科书。谨记历史，开拓未来。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	[第二套人民币投资的价值]</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	第二套人民币大全套共发行了11种面值，共15种版别：1分、2分、5分，1角、2角、各1种，5角2种（有水印、无水印），1元2种（红1元、黑1元）、2元券1种，3元券1种，5元券3种（1953苏印，1956年空心海鸥水印，1956年实心海鸥水印），10元券1种。发行期间，新中国经历众多波折、坎坷，众多人经历工资只有几元的年代，甚至1角钱可以吃饱饭的时代，流通量甚少，苏三珍之价格飞涨（10元、5元、3元）特别是10元劵，俗称大黑拾品相好的价值20多万元，在2009年价格5万左右，叁元价格高达5万元左右，先前才几千元。物依稀为贵的规律得以演绎。相比第三套人民币大全套增值了10多万元。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	80版50元人民币收藏市场受宠一张值4200元</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	物价大涨，一棒接一棒，如今传到了第四套人民币手上。收藏市场上，有关第四套人民币暴涨的消息接踵而来。<br />
+	&nbsp; &nbsp; &nbsp; &nbsp;<span style="text-indent: 2em;">1980年版50元价格飞涨资料图</span></p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	80版50元市价4200元</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	日前，青岛市文化市场经营邮币收藏生意的李先生介绍了最近青岛钱币市场的情况：&ldquo;很多藏友都收藏第四版人民币，1980年版50元涨势最好，近半年价格翻了一番，现在已到了4200元，比原价高70多倍。&rdquo;</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	成都古钱币市场进行的调查发现，1980版人民币2元价格约60元，约为原价的30倍；1980版50元价格达到3600元，是原价的70倍。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	收藏佳品</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	旧版人民币受到热捧</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	据成都晚报记者了解，央行在1989年发行了1980版50元面额纸钞，两年后又发行了1990版50元纸币。80版本流通时间短，存世量不多，因此在同套钱币中市场价格一直领先。1999年第五套人民币发行后，第四套逐渐淡出流通领域，其收藏价值日益突出。</p>
+<p style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 微软雅黑, 宋体; font-size: 16px; line-height: 32px; text-indent: 2em;">
+	<span style="text-indent: 2em;">&ldquo;旧版人民币纸币，人们对它的认可度很高，很容易被投资者接受，成了长期受资金热捧的币种。我身边在纸币市场中实现资产翻番的人，很多都是做旧版人民币的专业投资者。&rdquo;成都一投资者说。</span>&nbsp; &nbsp; &nbsp;&nbsp;<br />
+	&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c161124/14O95JGT610-21P2_lit.jpg{/dede:field}

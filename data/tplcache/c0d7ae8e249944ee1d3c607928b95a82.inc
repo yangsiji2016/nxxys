@@ -1,0 +1,91 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}宁夏西邮文化艺术品交易中心结算实施细则{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='body'}<table align="center" border="0" cellpadding="0" cellspacing="0" style="padding: 0px; margin: 0px;" width="1003">
+	<tbody style="padding: 0px; margin: 0px;">
+		<tr align="left" style="padding: 0px; margin: 0px;" valign="top">
+			<td style="padding: 0px; margin: 0px; color: rgb(102, 102, 102);">
+				<table border="0" cellpadding="0" cellspacing="0" style="padding: 0px; margin: 0px;" width="100%">
+					<tbody style="padding: 0px; margin: 0px;">
+						<tr style="padding: 0px; margin: 0px;">
+							<td style="padding: 0px; margin: 0px;">
+								<div class="neirong" style="padding: 0px; margin: 15px 0px 5px; float: left; height: auto; overflow: visible; color: rgb(51, 51, 51); font-size: 14px; min-height: 400px; line-height: 24px; clear: both; text-indent: 2em; font-family: arial, 宋体, sans-serif;">
+									<div class="neirong_text" style="padding: 0px; margin: 0px auto; line-height: 32px; clear: both; font-size: 16px; font-family: 微软雅黑, 宋体;">
+										<strong style="padding: 0px; margin: 0px;">宁夏西邮文化艺术品交易中心</strong><strong style="padding: 0px; margin: 0px;">结算实施细则（试行）</strong><br style="padding: 0px; margin: 0px;" />
+										&nbsp;<br style="padding: 0px; margin: 0px;" />
+										<strong style="padding: 0px; margin: 0px;">第一章</strong>&nbsp;<strong style="padding: 0px; margin: 0px;">总则</strong><br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第一条</strong>&nbsp;为规范宁夏西邮文化艺术品交易中心（以下简称&ldquo;本中心&rdquo;）的邮币卡交易登记结算行为，保护投资人的合法权益，维护登记结算秩序，防范登记结算风险，保障邮币卡交易市场安全高效运行，根据相关法律法规以及本中心的有关规定，制定本实施细则。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第二条</strong>&nbsp;在本中心邮币卡交易中心上市的邮币卡登记结算，适用本实施细则。本实施细则没有明确规定的，适用本中心其他相关规定。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第三条</strong>&nbsp;登记结算活动必须遵循公开、公平、公正、安全、高效的原则。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第四条</strong>&nbsp;登记结算业务采取集中统一的运营方式，由本中心登记结算部门集中统一办理。登记结算部门为邮币卡交易提供集中登记、存管、查询与结算服务。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第五条</strong>&nbsp;登记结算活动必须遵守法律、行政法规、本中心制定的相关管理制度。<br style="padding: 0px; margin: 0px;" />
+										<br style="padding: 0px; margin: 0px;" />
+										<strong style="padding: 0px; margin: 0px;">第二章&nbsp;</strong>&nbsp;<strong style="padding: 0px; margin: 0px;">登记结算部门</strong><br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第六条</strong>&nbsp;登记结算部门是本中心的下属职能部门。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第七条</strong>&nbsp;登记结算部门设立电子化实物登记簿系统，根据实物账户的记录，办理邮币卡投资人名册的登记。电子化实物交易登记簿系统的记录以整数位为计量单位，邮币卡实物数量的最小单位为1&nbsp;&ldquo;枚&rdquo;或&ldquo;张&rdquo;等。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第八条</strong>&nbsp;本中心统一使用人民币进行结算。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第九条</strong>&nbsp;邮币卡登记簿系统内的登记资讯包括但不限于以下内容：邮币卡投资人会员名称、会员账户号码、持有邮币卡名称、持有邮币卡数量、邮币卡限售情况、司法冻结情况以及权利质押等邮币卡持有状态。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第十条</strong>&nbsp;登记结算部门履行下列职能：<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（一）邮币卡实物账户、资金账户的设立和管理；&nbsp;<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（二）邮币卡实物的登记，包括初始登记、变更登记、退出登记；&nbsp;<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（三）依法提供与邮币卡登记业务有关的查询、资讯、咨询和培训服务；&nbsp;<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（四）维护邮币卡的投资人会员名册。持有邮币卡的投资人会员名册主要内容包括投资人会员名称、邮币卡实物账户号码、持有邮币卡数量等；<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（五）其他与邮币卡登记结算相关的业务。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第十一条</strong>&nbsp;&nbsp;登记结算部门负责制定下列事项和文件：&nbsp;<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（一）业务实施细则；&nbsp;<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（二）制订或修改业务管理制度、业务开展计划、紧急应对程序；&nbsp;<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（三）办理新的邮币卡及品种的登记业务，变更登记业务模式；&nbsp;<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（四）投资人会员资格的取得和丧失等变动情况；<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（五）合作银行资格的取得和丧失等变动情况；<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（六）发现重大业务风险和技术风险，发现重大违法行为，或涉及重大诉讼；&nbsp;<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（七）与邮币卡创始会员、邮币卡综合经纪会员、邮币卡投资人会员和合作银行签订的各项业务协定的样本格式。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第十二条</strong>&nbsp;登记结算部门应当妥善保存登记原始凭证及有关档案和资料。其保存期限不得少于20年。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第十三条</strong>&nbsp;登记结算部门对其所编制的与邮币卡登记业务有关的资料进行专属管理；未经登记结算部门同意，任何人不得将其专属管理的资料用于商业目的。&nbsp;<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第十四条</strong>&nbsp;登记结算部门及其工作人员依法对与邮币卡登记业务有关的资料负有保密义务。对与邮币卡登记业务有关的资料，登记结算部门应当拒绝查询，但有下列情形之一的，登记结算部门应当依法办理：<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（一）投资人会员查询其本人的有关邮币卡资料；<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（二）交易所履行职责要求登记结算部门提供相关资料；<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（三）相关部门依照法定的条件和程序进行查询和取证。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第十五条</strong>&nbsp;登记结算部门应当公开业务规则以及与邮币卡登记业务有关的主要收费专案和标准。登记结算部门制订或者变更业务规则、调整邮币卡实物登记主要收费项目和标准等，应当告知相关市场参与人。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第十六条</strong>&nbsp;登记结算部门工作人员必须忠于职守、依法办事、不得利用职务便利谋取不正当利益，不得泄露所知悉的有关人员的商业秘密。<br style="padding: 0px; margin: 0px;" />
+										<br style="padding: 0px; margin: 0px;" />
+										<strong style="padding: 0px; margin: 0px;">第三章&nbsp;</strong>&nbsp;<strong style="padding: 0px; margin: 0px;">交易账户的管理</strong><br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第十七条</strong>&nbsp;一个投资人会员只能开立一个交易账户，交易账户包含：实物账户和资金账户。投资人会员通过实物账户持有对应的实物，实物账户用于记录投资人会员持有实物的数量及其变动情况。资金账户用于记录投资人会员交易资金状况及其变动情况。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第十八条</strong>&nbsp;投资人会员所持有的实物应当记录在投资人会员本人的实物账户内。本中心根据实物账户的记载认定投资人会员为所对应的实物持有人。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第十九条</strong>&nbsp;投资人会员开立邮币卡交易账户应当通过本中心官方网站或指定的经纪会员向登记结算部门提出申请。申请开立的交易账户应当保证其提交的开户资料完整、真实、合法。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第二十条</strong>&nbsp;除交易中心认定的特殊情况外，投资人会员不得将本人的邮币卡交易账户提供给他人使用。登记结算部门对邮币卡交易账户的使用情况进行监督。投资人会员在邮币卡交易账户开立和使用过程中存在违规行为的，登记结算部门应当根据交易所指令对违规邮币卡交易账户采取限制使用、注销等处置措施。<br style="padding: 0px; margin: 0px;" />
+										<strong style="padding: 0px; margin: 0px;">第二十一条</strong>&nbsp;投资人会员一致同意由本中心通过交易账户登记其托管的邮币卡实物，投资人会员交由本中心托管的邮币卡的数量及其变动情况均应当记录在该投资人会员的邮币卡交易账户内。投资人会员一致认可邮币卡交易账户的登记效力，并认可登记结算部门出具的邮币卡登记查询结果是投资人会员于该查询结果出具时在本中心托管的邮币卡实物权属情况的合法证明。<br style="padding: 0px; margin: 0px;" />
+										<br style="padding: 0px; margin: 0px;" />
+										<strong style="padding: 0px; margin: 0px;">第四章&nbsp;</strong>&nbsp;<strong style="padding: 0px; margin: 0px;">邮币卡登记和存管</strong><br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第二十二条</strong>&nbsp;邮币卡挂牌前，其持有人及/或其委托的经纪会员应向登记结算部门申请办理其所挂牌邮币卡的初始登记业务。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第二十三条</strong>&nbsp;邮币卡挂牌后，登记结算部门根据邮币卡申购结果办理投资人会员名册和邮币卡数量的变更登记。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第二十四条</strong>&nbsp;邮币卡在交易所挂牌交易的，登记结算部门应当根据邮币卡交易的交易指令办理邮币卡投资人会员名册的变更登记。当事人因继承或依法进行财产分割（如离婚、继承等情形），法人合并、分立，或因解散、破产、被依法责令关闭等原因丧失法人资格的，资产合法承继人申请办理过户登记时，应凭合法文档到登记结算部门办理相关邮币卡实物的变更登记；过户完毕后，登记结算部门向申请人出具过户登记证明文件。如果资产合法承继人不符合本中心邮币卡投资人会员标准，登记结算部门有权拒绝其过户申请以及交易申请，但账户内应由其合法承继的实物及资金归其所有并予以提取。邮币卡因质押、冻结等原因导致其投资人权利受到限制的，登记结算部门应当在邮币卡投资人会员名册上加以锁定。&nbsp;<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第二十五条</strong>&nbsp;登记结算部门应当保证邮币卡投资人会员名册和登记过户记录真实、完整、合法。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第二十六条</strong>&nbsp;投资人会员在登记结算部门开立邮币卡交易账户，需严格遵守登记结算部门相关制度。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第二十七条</strong>&nbsp;投资人会员应当委托本中心交收托管机构存管其持有的邮币卡实物，但法律、行政法规和国家有关部门另有规定的除外。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第二十八条</strong>&nbsp;&nbsp;投资人会员买卖邮币卡实物，应当遵守本中心制定的相关交易规则，根据成交结果由本中心登记结算部门完成其所持实物和资金的交收与划拨。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第二十九条</strong>&nbsp;&nbsp;本中心登记结算部门应当采取有效措施，保证投资人会员存管的实物的安全，禁止挪用、盗卖。<br style="padding: 0px; margin: 0px;" />
+										<br style="padding: 0px; margin: 0px;" />
+										<strong style="padding: 0px; margin: 0px;">第五章</strong>&nbsp;<strong style="padding: 0px; margin: 0px;">资金结算及实物结算</strong><br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第三十条</strong>&nbsp;&nbsp;&nbsp;&nbsp;本中心实行日终资金结算制度及所持商品日终结算制度。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第三十一条</strong>&nbsp;本中心交易管理部负责每个交易日交易结束后将交易资料发送至邮币卡登记结算部门。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第三十二条</strong>&nbsp;本中心邮币卡登记结算部门根据交易管理部发送的交易资料计算资金轧差，对投资人当日交易资金及所交易实物进行汇划。&nbsp;<br style="padding: 0px; margin: 0px;" />
+										<br style="padding: 0px; margin: 0px;" />
+										<strong style="padding: 0px; margin: 0px;">第六章&nbsp;</strong>&nbsp;<strong style="padding: 0px; margin: 0px;">风险防范和控制</strong><br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第三十三条&nbsp;</strong>&nbsp;登记结算部门应当采取下列措施，加强邮币卡实物登记业务的风险防范和控制：<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（一）制订完善的风险防范制度和内部控制制度；<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（二）建立完善的技术系统，制订由有关市场参与人共同遵守的技术标准和规范；<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（三）建立完善的从业人员准入标准和风险评估体系；<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（四）对登记资料和技术系统进行备份，制订业务紧急应变程式和操作流程。<br style="padding: 0px; margin: 0px;" />
+										<br style="padding: 0px; margin: 0px;" />
+										<strong style="padding: 0px; margin: 0px;">附则</strong><br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第三十四条</strong>&nbsp;本实施细则所称：<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（一）市场，是指本中心设立的邮币卡交易市场。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（二）初始登记，是指经本中心审核通过，邮币卡在本中心挂牌前，持有人及/&nbsp;或其委托的经纪会员在登记结算部门规定的时间，申请办理邮币卡初始登记手续。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（三）变更登记，是指由登记结算部门执行交易系统指令，并确认邮币卡过户的行为。&nbsp;<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;（四）退出登记，是指某品种邮币卡终止上市后，持有该品种邮币卡的投资人会员应当及时办理退出登记手续。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第三十五条</strong>&nbsp;本实施细则所述的交易时间为北京时间，并以本中心交易系统的时间为准。<br style="padding: 0px; margin: 0px;" />
+										&nbsp; &nbsp; &nbsp; &nbsp;<strong style="padding: 0px; margin: 0px;">第三十六条</strong>&nbsp;本实施细则经本中心审议通过后实施，由本中心负责解释与修订。{/dede:field}
+{dede:field name='litpic'}{/dede:field}
