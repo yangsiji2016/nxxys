@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <title>{dede:field.title/}-{dede:global.cfg_webname/}</title>
+    <link href="{dede:global.cfg_templets_skin/}/css/cs.shuwon.css" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+    <script src="//cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="{dede:global.cfg_cmsurl/}/include/dedeajax2.js"></script>
+    <!--分页js-->
+    <script type="text/javascript">
+        function multi(pagenum, tagid) {
+            var taget_obj = document.getElementById(tagid);
+            var taget_obj_page = document.getElementById("page_" + tagid);
+            myajax = new DedeAjax(taget_obj, false, false, '', '', '');
+            myajax.SendGet2("/plus/arcmulti.php?mtype=0&pnum=" + pagenum + '&tagid=' + tagid);
+            myajax = new DedeAjax(taget_obj_page, false, false, '', '', '');
+            myajax.SendGet2("/plus/arcmulti.php?mtype=1&pnum=" + pagenum + '&tagid=' + tagid);
+            DedeXHTTP = null;
+        }
+    </script>
+</head>
+<body>
+<article class="notice">
+    <!--头部模板-->
+    {dede:include filename="head.htm"/}
+    <section class="banner"><img src="/templets/default/images/2016052315560166.jpg" width="100%" alt="西邮所（官网）-宁夏西邮艺术品交易中心">
+        <!--二级导航-->
+        <nav class="nav">
+            <ul>
+                {dede:channel row='9'}
+                <li class=""><a href="[field:typelink/]">[field:typename/]</a>
+                    <div class="border borderL"></div>
+                    <div class="border borderR"></div>
+                </li>
+                {/dede:channel}
+            </ul>
+        </nav>
+    </section>
+    <section class="noticeBox" id="zxdt">
+        <div class="pageTit">
+            <div class="border borderL"></div>
+            <div class="texts">
+                <div class="ch">{dede:field.title/}</div>
+                <div class="en">MARKET ANNOUNCEMENT</div>
+            </div>
+            <div class="border borderR"></div>
+        </div>
+
+        <!--推荐文章-->
+        {dede:arclist flag='h' type='.image' imgwidth='100%' imgheight='100%' row='1'}
+            <a href="[field:arcurl/]" class="bigNew">
+                <div class='imgs'>[field:image/]</div>
+                <div class="time">
+                    <div class="date">[field:pubdate function=strftime('%m-%d',@me)/]</div>
+                    <div class="year">[field:pubdate function=strftime('%Y',@me)/]</div>
+                </div>
+                <div class="textBox">
+                    <div class="tit">[field:title/]</div>
+                    <div class="text">[field:description function="cn_substr(@me,80)"/]...</div>
+                    <div class="lookMore">查看详情</div>
+                </div>
+            </a>
+        {/dede:arclist}
+
+        <!--文章列表-->
+        <ul class="list">
+            {dede:arclist titlelen='60' row='99999' tagid='mynews1' pagesize='10'}
+            <li class=''>
+                <a href="[field:arcurl/]">
+                    <div class="time">
+                        <div class="date">[field:pubdate function=strftime('%m-%d',@me)/]</div>
+                        <div class="year">[field:pubdate function=strftime('%Y',@me)/]</div>
+                    </div>
+                    <div class="textBox">
+                        <div class="tit">[field:title function="cn_substr(@me,60)"/]...</div>
+                        <div class="text">[field:description function="cn_substr(@me,80)"/]...</div>
+                    </div>
+                    <div class="btn">查看详情</div>
+                </a>
+            </li>
+            {/dede:arclist}
+        </ul>
+
+        <!--分页-->
+        <!--<div class="dede_pages_wrap">
+            <div class="dede_pages">
+                <ul class="pagelist">{dede:pagelist listitem="info,index,end,pre,next,pageno,option"listsize="3"/}</ul>
+            </div>
+        </div>-->
+        <div class="dede_pages_wrap">
+            <div class="dede_pages">
+                <ul class="pagelist">
+                    {dede:arcpagelist tagid='mynews1'/}
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- 底部模板 -->
+    {dede:include filename="footer.htm"/}
+</article>
+
+<!--底部js引用-->
+{dede:include filename="footer-js.htm"/}
+<script src="/templets/default/js/cs.shuwon.js" id="JS" page="home"></script>
+</body>
+</html>
