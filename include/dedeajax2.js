@@ -1,4 +1,3 @@
-<!--
 //xmlhttp和xmldom对象
 var DedeXHTTP = null;
 var DedeXDOM = null;
@@ -278,4 +277,3 @@ function SetCookie(c_name,value,expiredays)
     document.cookie = c_name + "=" +escape(value) + ((expiredays == null) ? "" : ";expires=" + exdate.toGMTString()); //使设置的有效时间正确。增加toGMTString()
 }
 
--->
