@@ -4971,3 +4971,9 @@ img {
     font-weight: normal;
     margin: 0px 2px;
 }
+
+/*封面页分页样式*/
+.thislink{
+    color: red;
+    border: 1px solid #ddd;
+}
